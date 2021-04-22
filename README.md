@@ -1,0 +1,2 @@
+# commander
+cs:go cheat
